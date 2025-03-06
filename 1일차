@@ -1,0 +1,15 @@
+Data 종류
+1. Structured
+ex 엑셀
+2. Unstructured
+ex 사진 이미지 오디오
+3. Semi-Structured
+ex hdml js
+
+데이터 패턴 인식(통계, 시각화) 및 분석
+데이터를 활용하여 다음 일어날 사건을 예측(모델을 활욜)
+ex 머신러닝 딥러닝
+
+데이터 사이언스 진행과정
+데이터 모으기 -> 데이터 클리닝(노이즈 제거 등등) -> 데이터 분석 -> 모델 빌딩 -> 예측
+data collection -> data cleaning -> data analysis -> model building -> 
